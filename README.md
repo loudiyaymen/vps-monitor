@@ -20,7 +20,7 @@ A lightweight system health monitoring tool written in Go. It provides real-time
 ## Installation
 
 1. Clone the repository:
-   git clone git@github.com-personal:YourGitHubUsername/vps-monitor.git
+   git clone git@github.com:loudiyaymen/vps-monitor.git
 
 2. Install dependencies:
    go mod tidy
